@@ -1,0 +1,36 @@
+{
+  "name": "gulp-font-blast",
+  "version": "0.0.1",
+  "description": "Gulp wrapper for font-blast",
+  "license": "MIT",
+  "repository": "pixeltherapy/gulp-font-blast",
+  "author": {
+    "name": "Neil O'Rourke",
+    "email": "neil@pixeltherapy.ie",
+    "url": "http://www.pixeltherapy.ie"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "markdown",
+    "marked",
+    "md",
+    "compile",
+    "convert",
+    "markup",
+    "html"
+  ],
+  "dependencies": {
+    "font-blast": "^0.2.2",
+    "fs": "0.0.2",
+    "gulp-util": "^3.0.0",
+    "js-yaml": "^3.6.1",
+    "path": "^0.12.7",
+    "through2": "^2.0.1"
+  }
+}
